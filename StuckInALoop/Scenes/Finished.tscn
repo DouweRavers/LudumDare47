@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Art/Goal.svg" type="Texture" id=1]
+
+[node name="Finished" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextureRect" type="TextureRect" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -439.936
+margin_top = -465.925
+margin_right = 428.064
+margin_bottom = 459.075
+texture = ExtResource( 1 )
+expand = true
+stretch_mode = 5
