@@ -2,7 +2,7 @@
 
 [ext_resource path="res://Art/racing-sans-one/RacingSansOne-Regular.ttf" type="DynamicFontData" id=1]
 
-[sub_resource type="GDScript" id=4]
+[sub_resource type="GDScript" id=1]
 script/source = "extends Control
 
 func _ready():
@@ -35,7 +35,7 @@ tracks/0/keys = {
 [node name="Loading" type="Control"]
 anchor_right = 1.0
 anchor_bottom = 1.0
-script = SubResource( 4 )
+script = SubResource( 1 )
 __meta__ = {
 "_edit_use_anchors_": false
 }

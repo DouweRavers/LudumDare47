@@ -59,7 +59,7 @@ emission_on_uv2 = false
 [node name="GameMap" parent="." instance=ExtResource( 2 )]
 
 [node name="Player" parent="." instance=ExtResource( 1 )]
-transform = Transform( -0.0749084, 0, 0.99719, 0, 1, 0, -0.99719, 0, -0.0749084, 482.694, 2.98184, 736.405 )
+transform = Transform( -0.0749084, 0, 0.99719, 0, 1, 0, -0.99719, 0, -0.0749084, 482.711, 2.98184, 736.439 )
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 stream = ExtResource( 3 )

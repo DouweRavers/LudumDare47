@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="OK.svg"
+   inkscape:export-filename="/home/douwe/Documents/projects/LUDUM_DARE/LudumDare47/StuckInALoop/Art/restart.png"
+   inkscape:export-xdpi="95"
+   inkscape:export-ydpi="95"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path894"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) translate(-2.3,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5771576"
+     inkscape:cx="75.001173"
+     inkscape:cy="313.18188"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="1920"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-197)">
+    <circle
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.93448281;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:11.73793159, 23.47586317;stroke-dashoffset:0;stroke-opacity:1"
+       id="path845"
+       cx="50"
+       cy="247"
+       r="50"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95" />
+    <ellipse
+       style="opacity:1;fill:#ccff00;fill-opacity:1;stroke:none;stroke-width:2.7276485;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:10.9105952, 21.82119043;stroke-dashoffset:0;stroke-opacity:1"
+       id="path845-3"
+       cx="50"
+       cy="244"
+       rx="48"
+       ry="45"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95" />
+    <ellipse
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:2.61020565;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:10.44082258, 20.88164519;stroke-dashoffset:0;stroke-opacity:1"
+       id="path845-3-6"
+       cx="50"
+       cy="244"
+       rx="46"
+       ry="43"
+       inkscape:export-xdpi="95"
+       inkscape:export-ydpi="95" />
+    <g
+       aria-label="V"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c5f701;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text5977">
+      <path
+         d="m 38.528325,265.5995 c -1.76919,-1.81632 -11.9512,-31.30376 -11.9512,-31.30376 5.661783,3.94173 11.433379,18.62733 14.341439,26.35552 0,0 3.065085,-5.84391 9.818904,-19.30369 6.753815,-13.45979 23.527686,-22.79132 23.527686,-22.79132 0,0 -14.081395,12.50715 -20.375794,23.56376 -6.294399,11.05661 -8.709871,21.43653 -10.559588,23.47949 -1.946956,2.15037 -3.032257,1.81632 -4.801447,0 z"
+         style="fill:#c5f701;fill-opacity:1;stroke-width:1.07351148"
+         id="path5979"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="zcczczsz" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+</svg>
